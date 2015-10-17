@@ -15,7 +15,13 @@ oooo  oooo  oo.ooooo.   888  oooo  oooo  ooo. .oo.    .oooo888
 - Rifki Ahmad Perdian / - / Web Developer
 - Akbar Ibnu Sholla / @blaisck / Supporter
 
-## Background
+## Latar Belakang
 1. Data tentang pendudukan miskin yang kurang akurat dari pemerintah (bahkan di tingkat kelurahan)
 2. Adanya keluarga dengan tingkat kemiskinan yang memprihatinkan
 3. Adanya perusahaan/perorangan yang ingin memberikan dana bantuan1
+
+## Solusi
+1. Pelaporan dan pengumpulan data dengan metode crowdsourcing dengan aplikasi smartphone dan web (via internet)
+2. Pengkategorian data berdasarkan duplikasi data dan tingkat kepercayaan pengguna
+3. Verifikasi kevalidan data oleh aparat pemerintahan setempat
+4. Penindaklanjutan oleh perusahaan/perorangan yang termonitor
