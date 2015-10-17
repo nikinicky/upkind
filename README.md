@@ -1,17 +1,16 @@
 ```
-              8       o            8 
-              8                    8 
-o    o .oPYo. 8  .o  o8 odYo. .oPYo8 
-8    8 8    8 8oP'    8 8' `8 8    8 
-8    8 8    8 8 `b.   8 8   8 8    8 
-`YooP' 8YooP' 8  `o.  8 8   8 `YooP' 
-:.....:8 ....:..::...:....::..:.....:
-:::::::8 ::::::::::::::::::::::::::::
-:::::::..::::::::::::::::::::::::::::
+                       oooo         o8o                    .o8  
+                       `888         `"'                   "888  
+oooo  oooo  oo.ooooo.   888  oooo  oooo  ooo. .oo.    .oooo888  
+`888  `888   888' `88b  888 .8P'   `888  `888P"Y88b  d88' `888  
+ 888   888   888   888  888888.     888   888   888  888   888  
+ 888   888   888   888  888 `88b.   888   888   888  888   888  
+ `V88V"V8P'  888bod8P' o888o o888o o888o o888o o888o `Y8bod88P" 
+             888                                                
+            o888o                                               
+ - usaha pendataan keluarga miskin di indonesia -                   
 ```
-# - usaha pendataan keluarga miskin di indonesia -
-
-## Team Nampat dari Pondok Programmer
+## Tim Nampat dari Pondok Programmer
 - Nicky Valentino / @nickiesiva / Leader
 - Rifki Ahmad Perdian / - / Web Developer
 - Akbar Ibnu Sholla / @blaisck / Supporter
