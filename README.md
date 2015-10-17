@@ -25,3 +25,28 @@ oooo  oooo  oo.ooooo.   888  oooo  oooo  ooo. .oo.    .oooo888
 2. Pengkategorian data berdasarkan duplikasi data dan tingkat kepercayaan pengguna
 3. Verifikasi kevalidan data oleh aparat pemerintahan setempat
 4. Penindaklanjutan oleh perusahaan/perorangan yang termonitor
+
+## Arsitektur
+Next
+
+## Model Bisnis
+1. Aplikasi dapat dengan mudah di unduh melalui Playstore, atau langsung dari website resmi, atau langsung ke websitenya
+2. Pemberian apresiasi kepada anggota yang aktif oleh perusahaan/perorangan/pemerintah
+3. Adanya anggota tetap dari perusahaan/perorangan sebagai penggalang dana
+
+## Strategi Sosialisasi
+1. Menggandeng perusahaan/perorangan sebagai donatur tetap
+2. Menggandeng pemerintah yang bersangkutan
+3. Sosialisasi melalui media sosial
+
+## Keunggulan
+1. Adanya tindak lanjut terhadap keluarga yang tidak mampu (tidak ada prihatin dan share status)
+2. Aplikasi mudah dijangkau di berbagai platform
+3. Mengurangi tingkat kemiskinan 
+4. Melatih kepedulian sosial di masyarakat
+
+## Tampilan Aplikasi
+Next
+
+Happy Coding :)
+3. 
