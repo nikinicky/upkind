@@ -5,5 +5,8 @@
     "ionic": "driftyco/ionic-bower#1.0.0-rc.2",
     "ionic-material": "0.4.2",
     "ion-md-input": "0.0.2"
+  },
+  "dependencies": {
+    "lf-ng-md-file-input": "~0.1.1"
   }
 }
