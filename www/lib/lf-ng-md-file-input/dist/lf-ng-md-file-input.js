@@ -1,7 +1,7 @@
 (function(angular) {
     'use strict';
 
-    var version = '1.0.0-rc.2';
+    var version = '0.1.1';
 
     var lfNgMdFileinput = angular.module('lfNgMdFileInput', ['ngMaterial','ngMdIcons']);
 

@@ -1,0 +1,47 @@
+<ion-view view-title="Register">
+    <ion-content ng-class="{expanded:isExpanded}">
+        <div class="content has-header">
+            <div class="list animate-fade-slide-in-right">
+
+            <div class="fr">
+                <form novalidate>
+                    <div class="list">                
+                        <label class="item item-input item-floating-label"> 
+                            <span class="input-label">Username</span> 
+                            <input style="weight:10px" type="text" placeholder="First Name" ng-model="keluarga.nama"> 
+                        </label> 
+                        <label class="item item-input item-floating-label"> 
+                            <span class="input-label">Email</span> 
+                            <input type="text" placeholder="No KTP" ng-model="keluarga.ktp"> 
+                        </label> <br />
+                        <label class="item item-input item-floating-label"> 
+                            <span class="input-label">Password</span> 
+                            <input type="text" placeholder="Alamat" ng-model="keluarga.alamat"> 
+                        </label> <br />
+
+                       <label class="item item-input">
+                          <span class="input-label">Upload Foto</span>
+                          <input type="file">
+                        </label>
+                         <br /> 
+                         <br /> 
+                        <button class="button button-block button-calm ink" data-ink-color="#9DEAFF" data-ink-opacity="1"> Submit </button>       
+                    </div>
+                </form>
+            </div>
+            
+            </div>
+        </div>
+    </ion-content>
+</ion-view>
+
+<style type="text/css">
+    .fr{
+            width: 85%;
+            margin: 0 auto;
+    }
+</style>
+
+
+
+

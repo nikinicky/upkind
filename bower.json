@@ -7,6 +7,7 @@
     "ion-md-input": "0.0.2"
   },
   "dependencies": {
-    "lf-ng-md-file-input": "~0.1.1"
+    "lf-ng-md-file-input": "~0.1.1",
+    "ion-autocomplete": "~0.3.0"
   }
 }

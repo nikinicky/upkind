@@ -12,21 +12,29 @@
                         </label> 
                         <label class="item item-input item-floating-label"> 
                             <span class="input-label">Alamat</span> 
-                            <input type="text" placeholder="Alamat" ng-model="keluarga.alamat"> 
-                        </label> <br />
+                            <textarea placeholder="Alamat" ng-model="keluarga.alamat"> </textarea>
+                        </label> 
+                         <label class="item item-input item-floating-label"> 
+                            <span class="input-label">Kota / Profinsi</span> 
+                            <input style="weight:10px" type="text" placeholder="Kabupaten, Profinsi" ng-model="keluarga.nama"> 
+                        </label> 
                         <label class="item item-input item-floating-label"> 
                             <span class="input-label">Description</span> 
                             <textarea placeholder="Description" ng-model="keluarga.description"> </textarea>
-                        </label> <br /> 
-                       <label class="item item-input item-floating-label">
-                            Foto Keluarga  <br /> 
-                            <input type="file" title="Foto Keluarga" ng-model="keluarga.foto"> 
                         </label> 
+                        <br /> 
+                         <br /> 
+                         <label class="item item-input">
+                          <span class="input-label">Foto Keluarga</span>
+                          <input type="file">
+                        </label>
+
                          <br /> 
                          <br /> 
                         <button class="button button-block button-calm ink" data-ink-color="#9DEAFF" data-ink-opacity="1"> Submit </button>       
                     </div>
                 </form>
+            </div>
             </div>
         </div>
     </ion-content>
